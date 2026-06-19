@@ -1,16 +1,14 @@
-## Hi there 👋
+# Stan Q. He
 
-<!--
-**stanqhe/stanqhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSBA Candidate at UC San Diego, building analytics projects, product experiments, and AI-enabled workflows.
 
-Here are some ideas to get you started:
+## Current Build Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Analytics and decision-oriented modeling
+- Product experimentation and customer analytics
+- AI-assisted workflows for clearer digital work
+
+More portfolio projects and writeups are being prepared.
+
+→ [Visit my personal site](https://stanqhe.github.io)
+
